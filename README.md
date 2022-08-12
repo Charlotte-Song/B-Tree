@@ -49,5 +49,5 @@ BTree two parts.
 
 ## Authors
 
-An Java project completed duirng the begining of May.2021 to Mid May.2021 by Charlotte
+An Java project completed duirng the end of Nov.2021 to Begining of Dec.2021 by Charlotte
 Also part of the coding completed by my groupmate(WK & XYZ),thanks for their contibutions.
