@@ -14,7 +14,7 @@ BTree two parts.
 * The delete rule is same as B+-tree delete showing above
 ### print
 * Print out the B+-Tree and the picture show in below is the showingformat
-![image](https://github.com/Charlotte-Song/B-Tree/blob/main/WechatIMG136.png)
+* ![image](https://github.com/Charlotte-Song/B-Tree/blob/main/WechatIMG136.png)
 
 ## B+Tree Part
 ### Btree
