@@ -47,3 +47,7 @@ BTree two parts.
 ### Tree
 * Data Structure of BTree: BTree The related rules and details is show in the description of the B+-tree, which is the first part of the report
 
+## Authors
+
+An Java project completed duirng the begining of May.2021 to Mid May.2021 by Charlotte
+Also part of the coding completed by my groupmate(WK & XYZ),thanks for their contibutions.
